@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/DenchZhou
+url:
 date_format: "ordinal"
 title: DenchZhou
 subtitle: "hello world"
