@@ -6,7 +6,7 @@ description: Hadoop学习过程中的坑
 keywords: hadoop
 ---
 
-##（一）格式化后启动dfs,使用start-dfs.sh命令后有如下报错
+## （一）格式化后启动dfs,使用start-dfs.sh命令后有如下报错
 ERROR: Attempting to operate on hdfs namenode as root
 ERROR: but there is no HDFS_NAMENODE_USER defined. Aborting operation.
 ## 解决方法
@@ -31,7 +31,7 @@ YARN_NODEMANAGER_USER=root
 修改后退出重新执行 start-dfs.sh
 ![image.png](https://upload-images.jianshu.io/upload_images/14607771-108148b9d17cc7f9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##（二）错误: 找不到或无法加载主类 org.apache.hadoop.mapreduce.v2.app.MRAppMaster
+## （二）错误: 找不到或无法加载主类 org.apache.hadoop.mapreduce.v2.app.MRAppMaster
 控制台输入 hadoop classpath 将内容复制到下面的value
 编辑yarn-site.xml
 ```
@@ -99,7 +99,7 @@ java.net.ConnectException: Connection refused: no further information
 	at org.apache.hadoop.mapreduce.Job.waitForCompletion(Job.java:1362)
 	at wordcountdemo.JobSubmitter.main(JobSubmitter.java:71)
 ```
-##解决方法
+## 解决方法
 修改mapred-site.xml   进行如下添加，其中master为个人自己的hostname
 ```
 <property>  
