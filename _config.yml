@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: #
+baseurl: https://github.com/DenchZhou
+url: https://github.com/DenchZhou
 date_format: "ordinal"
 title: DenchZhou
 subtitle: "hello world"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: Dongqi Zhou
 github_username: DenchZhou
 organization: 591183102@qq.com
-organization_url: #
+organization_url:
 location: FuZhou, China
 email: 591183102@qq.com
 
