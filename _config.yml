@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: #
 date_format: "ordinal"
 title: MyBlog
 subtitle: "hello world"
