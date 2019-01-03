@@ -1,7 +1,7 @@
-# ---------------- #
+﻿# ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://github.com/DenchZhou
+baseurl:
 url: https://github.com/DenchZhou
 date_format: "ordinal"
 title: DenchZhou
