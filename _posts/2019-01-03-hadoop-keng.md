@@ -1,4 +1,12 @@
-## （一）格式化后启动dfs,使用start-dfs.sh命令后有如下报错
+---
+layout: post
+title: Hadoop踩坑笔记
+categories: hadoop
+description: Hadoop学习过程中的坑
+keywords: hadoop
+---
+
+##（一）格式化后启动dfs,使用start-dfs.sh命令后有如下报错
 ERROR: Attempting to operate on hdfs namenode as root
 ERROR: but there is no HDFS_NAMENODE_USER defined. Aborting operation.
 ## 解决方法
