@@ -8,19 +8,17 @@ title: MyBlog
 subtitle: "hello world"
 description: "Dench的个人博客"
 keywords: blog, Dongqi Zhou
-timezone: Asia/fuzhou
+timezone: Asia/shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Dongqi Zhou
+github_username: DenchZhou
+location: FuZhou, China
+email: 591183102@qq.com
 
 # ---------------- #
 #    Navigation    #
