@@ -4,7 +4,7 @@
 baseurl:
 url: #
 date_format: "ordinal"
-title: MyBlog
+title: DenchZhou
 subtitle: "hello world"
 description: "Dench的个人博客"
 keywords: blog, Dongqi Zhou
@@ -17,8 +17,8 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Dongqi Zhou
 github_username: DenchZhou
-organization: www.dench.top
-organization_url: www.dench.top
+organization: 591183102@qq.com
+organization_url: #
 location: FuZhou, China
 email: 591183102@qq.com
 
@@ -38,9 +38,9 @@ navs:
 #     href: /archives/
 #     label: 归档
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
@@ -53,7 +53,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+# subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: DenchZhou/denchzhou.github.io
 
 # ---------------- #
 #      Comments    #
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: DenchZhou
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: DenchZhou
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
