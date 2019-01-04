@@ -98,8 +98,8 @@ gitment:
     owner: DenchZhou
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 98455c5720a60a51627d
+        client_secret: acbd14e044eb538a3d289c939c17a951ab423beb
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DenchZhou
