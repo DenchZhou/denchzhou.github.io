@@ -98,14 +98,14 @@ gitment:
     owner: DenchZhou
     repo: blog-comments
     oauth:
-        client_id: 98455c5720a60a51627d
-        client_secret: acbd14e044eb538a3d289c939c17a951ab423beb
+        client_id: 3c43f1c62758356ae88c
+        client_secret: ffa620749cae6fcf2ddbc792892fa549653c3980
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: DenchZhou
     repo: blog-comments
-    clientID: 98455c5720a60a51627d
-    clientSecret: acbd14e044eb538a3d289c939c17a951ab423beb
+    clientID: 3c43f1c62758356ae88c
+    clientSecret: ffa620749cae6fcf2ddbc792892fa549653c3980
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
