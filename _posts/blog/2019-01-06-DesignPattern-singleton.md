@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 设计模式之单例模式
-categories: Design Pattern
+categories: DesignPattern
 description: Java设计模式总结之单例模式
 keywords: DesignPattern
 ---
