@@ -16,6 +16,8 @@ putVal方法主要思路如下：
 - - 如果为ForwardingNode类型，则表示当前其他线程正在扩容，则进入helpTransfer()协助扩容
 - - 如果不为空且是普通节点，则对节点上锁，往链表或者红黑树添加。
 - cas更新baseCount，并判断是否需要扩容
+
+接下来看源码
 ```
 //put方法
 public V put(K key, V value) {
