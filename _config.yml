@@ -4,8 +4,8 @@
 baseurl:
 url:
 date_format: "ordinal"
-title: DenchZhou
-subtitle: "hello world"
+title: donnie1717
+subtitle: "不来也不去"
 description: "Dench的个人博客"
 keywords: blog, Dongqi Zhou
 timezone: Asia/shanghai
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Dongqi Zhou
-github_username: DenchZhou
-organization: 591183102@qq.com
+github_username: donnie1717
+organization: dqzhou5180@foxmail.com
 organization_url:
 location: FuZhou, China
-email: 591183102@qq.com
+email: dqzhou5180@foxmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -95,14 +95,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: DenchZhou
+    owner: donnie1717
     repo: blog-comments
     oauth:
         client_id: 3c43f1c62758356ae88c
         client_secret: ffa620749cae6fcf2ddbc792892fa549653c3980
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: DenchZhou
+    owner: donnie1717
     repo: blog-comments
     clientID: 3c43f1c62758356ae88c
     clientSecret: ffa620749cae6fcf2ddbc792892fa549653c3980
