@@ -13,7 +13,7 @@ session的基础知识就不再多说。
 本文将先从spring session入手，完成session共享。由于最近接触的是一个老项目，使用ssm框架，本文基于xml的方式进行配置。熟悉spring boot的朋友可以直接到spring boot官网进行查看，配置较为简单。由于老项目的并发量并不是很高，因此本文使用spirng-session-jdbc来进行session共享。大型项目可选择使用非关系型数据库Redis等
 
 ### 代码地址
-https://github.com/DenchZhou/ssm/tree/master/spring-session-jdbc
+https://github.com/donnie1717/ssm/tree/master/spring-session-jdbc
 如果有用的话不妨给个star，感恩！
 
 ### 配置

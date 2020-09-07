@@ -6,7 +6,7 @@ url:
 date_format: "ordinal"
 title: donnie1717
 subtitle: "不来也不去"
-description: "Dench的个人博客"
+description: "x个人博客"
 keywords: blog, Dongqi Zhou
 timezone: Asia/shanghai
 encoding: "utf-8"
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: DenchZhou/denchzhou.github.io
+repository: donnie1717/donnie1717.github.io
 
 # ---------------- #
 #      Comments    #

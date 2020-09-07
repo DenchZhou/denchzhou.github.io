@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-description: hello world
+description: 不来也不去
 keywords: Dongqi Zhou, 周东圻
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-刚入行的小菜鸟
+小菜鸟
 
 ## 联系
 
